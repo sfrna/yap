@@ -1,10 +1,19 @@
 <?php
+$language = "igpay atinlay";
 $press = "esspray";
+$zero = "erozay";
 $one = "oneway";
 $two = "otway";
 $three = "eethray";
+$four = "ourfay";
+$five = "ivefay";
+$six = "ixsay";
+$seven = "evensay";
+$eight = "eightway";
+$nine = "inenay";
 $to_find = "otay indfay";
 $to_search_for = "otay earchsay orfay";
+$for = "orfay";
 $by = "ybay";
 $someone_to_talk_to = "omeonesay otay alktay otay";
 $meetings = "eetingsmay";

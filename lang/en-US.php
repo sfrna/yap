@@ -1,10 +1,19 @@
 <?php
+$language = "english";
 $press = "press";
+$zero = "zero";
 $one = "one";
 $two = "two";
 $three = "three";
+$four = "four";
+$five = "five";
+$six = "size";
+$seven = "seven";
+$eight = "eight";
+$nine = "nine";
 $to_find = "to find";
 $to_search_for = "to search for";
+$for = "for";
 $by = "by";
 $someone_to_talk_to = "someone to talk to";
 $meetings = "meetings";
